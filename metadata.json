@@ -1,0 +1,6 @@
+{
+  "name": "CS Placement Quiz",
+  "description": "Interactive Computer Science and Tech placement quiz featuring circular timer, instant feedback, and comprehensive CS subjects for placement students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
