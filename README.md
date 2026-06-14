@@ -16,6 +16,12 @@ The centerpiece of the experience is a **circular animated countdown timer**, pr
 
 Live Link-https://placement-quiz-omega.vercel.app/
 
+Website Screenshots-
+<img width="1895" height="840" alt="image" src="https://github.com/user-attachments/assets/deaa0420-b79f-4a17-80ce-22e2d71da0f5" />
+<img width="1862" height="872" alt="image" src="https://github.com/user-attachments/assets/8ed3b198-9214-462c-92a2-cb3a0002b0d6" />
+
+
+
 ---
 
 ## 🚀 Key Features
